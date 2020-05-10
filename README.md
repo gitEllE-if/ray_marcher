@@ -1,10 +1,10 @@
-# ray_marcher
+# Ray marcher
 
 
 ![screenshot](screenshot/rm.gif)
 
 
-##Run
+## 🟢 Run
 
 ```
 git clone https://github.com/gitEllE-if/ray_marcher.git rayMarch
